@@ -9,4 +9,4 @@ console.log(concatenacao, template)
 console.log(`1 + 1 = ${1 + 1}`) //tudo o que for entre o dólar e as chaves, é uma função
 
 const up = texto => texto.toUpperCase()
-console.log(`Eii... ${up('cuidaddo')}!`)
+console.log(`Eii... ${up('cuidado')}!`)
