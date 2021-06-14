@@ -3,7 +3,7 @@
 const saudacao = 'Opa' //contexto léxico 1 
 
 function exec() {
-    conts saudacao = 'Faaaala' //contexto léxico 2
+    const saudacao = 'Faaaala' //contexto léxico 2
     return saudacao
 }
 
